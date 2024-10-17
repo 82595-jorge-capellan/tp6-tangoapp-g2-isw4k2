@@ -40,7 +40,7 @@ export const SendEmail = async (data) => {
 
 
     let formCont = {
-        destino: 'colodnyagustin@gmail.com',
+        destino: 'google@gmail.com',
         tipo_pedido: data.TipoCarga,
         provincia_origen: await ProvinciaById(data.ProvinciaRetiro), 
         localidad_origen: data.LocalidadRetiro,  
