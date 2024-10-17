@@ -1,3 +1,3 @@
-1- en la terminal instalar las librerias con npm i (hace falta tener npm)
-2- dentro de src/services/formularioService.service.js hay un campo destino= "google@gmail.com" donde pueden reemplazarlo por el gmail de alguien para recibir los emails
-3- ejecutar la app con npm run dev
+1- en la terminal instalar las librerias con npm i (hace falta tener npm)\n
+2- dentro de src/services/formularioService.service.js hay un campo destino= "google@gmail.com" donde pueden reemplazarlo por el gmail de alguien para recibir los emails\n
+3- ejecutar la app con npm run dev\n
